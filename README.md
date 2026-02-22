@@ -11,6 +11,8 @@ Software developer specializing in **iOS development**, **machine learning**, an
 
 🏆 **HackIllinois 2020 Winner** - Caterpillar Anomaly Detection Challenge
 
+💼 **13 Public Projects** | 🎯 **Active Development** on SnapHabit | ⭐ **Open to Collaborate**
+
 ## 🚀 Featured Projects
 
 ### 🔬 [C-NMC Leukemia Detection](https://github.com/dyadav4/C-NMC_Leukemia)
@@ -93,12 +95,12 @@ Software developer specializing in **iOS development**, **machine learning**, an
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
-## 📈 Currently Learning
+## 🎯 What I'm Working On
 
-- Advanced SwiftUI animations and transitions
-- Deep learning deployment and optimization
-- AWS SageMaker & MLOps best practices
-- iOS app monetization strategies
+- 📱 **SnapHabit** - Building a modern iOS habit tracker with CloudKit sync and smart notifications
+- 📚 Learning advanced SwiftUI animations and transitions
+- ☁️ Exploring AWS SageMaker & MLOps best practices
+- 💰 Researching iOS app monetization strategies
 
 ## 📫 Let's Connect
 
