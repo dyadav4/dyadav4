@@ -49,6 +49,7 @@ Software developer with experience in mobile development, machine learning, and 
 - GitHub: [@dyadav4](https://github.com/dyadav4)
 - Email: dharam.yadav91@gmail.com
 
+## 📊 GitHub Stats
 
 ---
 
