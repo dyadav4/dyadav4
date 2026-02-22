@@ -51,9 +51,13 @@ Software developer with experience in mobile development, machine learning, and 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dyadav4&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dyadav4&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dyadav4&theme=dark&hide_border=true&background=0d1117)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dyadav4&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</p>
 
 ---
 
