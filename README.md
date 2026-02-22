@@ -15,6 +15,14 @@ Software developer specializing in **iOS development**, **machine learning**, an
 
 ## 🚀 Featured Projects
 
+### 🤖 [MediumAgent - Agentic AI System](https://github.com/dyadav4/MediumAgent)
+**Production-grade autonomous agent using ReAct pattern for content generation**
+- Multi-LLM orchestration (OpenAI GPT-4o, Claude Sonnet 4)
+- Autonomous research → write → review → publish workflow
+- Self-refinement loop with 8.0/10 quality threshold
+- GitHub Actions automation (generates 30 articles/month)
+- **Tech:** Python, ReAct Pattern, LLM APIs, CI/CD
+
 ### 🔬 [C-NMC Leukemia Detection](https://github.com/dyadav4/C-NMC_Leukemia)
 **Distributed deep learning system for early-stage leukemia detection**
 - Production-scale ML on AWS (S3, EMR, SageMaker)
@@ -49,6 +57,7 @@ Software developer specializing in **iOS development**, **machine learning**, an
 - **[Talkie](https://github.com/dyadav4/Talkie)** - Communication app showcasing MVVM architecture
 
 ### 🤖 Machine Learning & AI
+- **[MediumAgent](https://github.com/dyadav4/MediumAgent)** - Agentic AI with ReAct pattern & multi-LLM orchestration
 - **[C-NMC Leukemia](https://github.com/dyadav4/C-NMC_Leukemia)** - Distributed deep learning on AWS
 - **[Autonomous Driving Detection](https://github.com/dyadav4/Autonomous-driving-application-car-detection)** - YOLO object detection
 - **[Exoplanet Hunting](https://github.com/dyadav4/Exoplanet-Hunting)** - Ensemble ML classification
@@ -97,10 +106,11 @@ Software developer specializing in **iOS development**, **machine learning**, an
 
 ## 🎯 What I'm Working On
 
+- 🤖 **MediumAgent** - Autonomous agentic AI system publishing 30 iOS articles/month using ReAct pattern
 - 📱 **SnapHabit** - Building a modern iOS habit tracker with CloudKit sync and smart notifications
 - 📚 Learning advanced SwiftUI animations and transitions
-- ☁️ Exploring AWS SageMaker & MLOps best practices
-- 💰 Researching iOS app monetization strategies
+- 🧠 Exploring agentic AI patterns and LLM orchestration
+- 💰 Building content monetization through Dev.to + Medium Partner Program
 
 ## 📫 Let's Connect
 
