@@ -2,7 +2,6 @@
 
 <p align="center">
   <a href="https://github.com/dyadav4"><img src="https://img.shields.io/github/followers/dyadav4?label=Follow&style=social" alt="GitHub"></a>
-  <a href="https://dyadav4.github.io"><img src="https://img.shields.io/badge/Portfolio-dyadav4.github.io-blue?style=flat-square" alt="Portfolio"></a>
 </p>
 
 ## 👨‍💻 About Me
@@ -70,8 +69,6 @@ Software developer specializing in **iOS development**, **machine learning**, an
 - **[House Price Prediction](https://github.com/dyadav4/House-Prices-Advanced-Regression-Techniques)** - Kaggle competition with Tableau
 - **[POS Tagging with HMM](https://github.com/dyadav4/Part-of-Speech-Tagging-with-HMM)** - Statistical NLP
 
-### 🌐 Web
-- **[Portfolio Website](https://github.com/dyadav4/dyadav4.github.io)** - Personal portfolio ([Live](https://dyadav4.github.io))
 
 ## 🛠️ Tech Stack
 
@@ -114,21 +111,20 @@ Software developer specializing in **iOS development**, **machine learning**, an
 
 ## 📫 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-dyadav4.github.io-blue?style=for-the-badge)](https://dyadav4.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-dyadav4-181717?style=for-the-badge&logo=github)](https://github.com/dyadav4)
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dyadav4&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dyadav4&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dyadav4&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dyadav4&theme=dark&hide_border=true&background=0d1117&cache_seconds=1800" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyadav4&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyadav4&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 ---
