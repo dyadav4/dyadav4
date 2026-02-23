@@ -1,9 +1,5 @@
 # Hi there, I'm Dharamvir 👋
 
-<p align="center">
-  <a href="https://github.com/dyadav4"><img src="https://img.shields.io/github/followers/dyadav4?label=Follow&style=social" alt="GitHub"></a>
-</p>
-
 ## 👨‍💻 About Me
 
 Software developer specializing in **iOS development**, **machine learning**, and **data science**. Passionate about building practical applications that solve real-world problems, from mobile apps to distributed ML systems on AWS.
@@ -108,10 +104,6 @@ Software developer specializing in **iOS development**, **machine learning**, an
 - 📚 Learning advanced SwiftUI animations and transitions
 - 🧠 Exploring agentic AI patterns and LLM orchestration
 - 💰 Building content monetization through Dev.to + Medium Partner Program
-
-## 📫 Let's Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-dyadav4-181717?style=for-the-badge&logo=github)](https://github.com/dyadav4)
 
 ## 📊 GitHub Stats
 
